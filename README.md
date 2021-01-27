@@ -15,4 +15,4 @@ dispará-la, e este caminho também deve ser controlado pelo jogador. O jogador 
 pontos antes do fim do jogo, que acaba no momento em que as peças alcançam a base do tabuleiro. Conforme o passar do tempo de jogo, ele
 se torna mais difícil, de forma com que a linha pertencente ao topo do tabuleiro jogável vai “descendo” aos poucos.                                                                                                     
 
-![](../arte/bubble.png)
+![img1](https://github.com/gss214/Puzzle-Bobble-C/blob/main/arte/bubble.png)
