@@ -1,0 +1,11 @@
+#####################################################
+# Universidade de Brasilia                          # 
+# Instituto de Ciencias Exatas                      #
+# Departamento de Ciencia da Computacao             #
+#                                                   #
+# Algoritmos e Programacao de Computadores: 1/2019  #
+#                                                   #
+# Desenvolvido por: Guilherme Silva Souza           #
+# Turma: A                                          #
+#####################################################
+
