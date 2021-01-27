@@ -5,7 +5,7 @@ Universidade de Brasilia
 Instituto de Ciencias Exatas                                                                                    
 Departamento de Ciencia da Computacao                                                                                                                                                                                           
 Algoritmos e Programação de Computadores – 1/2019                                                               
-Aluno(a): Guilherme Silva Souza                                                                                       
+Desenvolvido por: Guilherme Silva Souza                                                                                       
 Versão do compilador: gcc (Ubuntu 7.4.0-1ubuntu1~18.04.1) 7.4.0                                                 
                                                                                                                
 Descricao: O programa eh um jogo em um grid 2D representado por uma matriz similar ao jogo Puzzle Bobble (também conhecido como Bust-a-Move). 
