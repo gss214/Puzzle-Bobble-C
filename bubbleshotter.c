@@ -791,7 +791,7 @@ int inserirNick()
     //loop que inicializa o vetor alfabeto
     for (i = 1; i < 52; i++)
     {
-        //se o indice for impar eh adicionado uma letra (comecando pela letra 'A' que corresponde a 69 na tabela ascii)
+        //se o indice for impar eh adicionado uma letra (comecando pela letra 'A' que corresponde a 65 na tabela ascii)
         if (i % 2 != 0)
         {
             vetalfabeto[i] = ascii;
