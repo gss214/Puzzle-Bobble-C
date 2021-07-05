@@ -7,7 +7,7 @@ Final project of the Algorithms and Computer Programming course at UnB in 2019.1
 
 University of Brasilia, Institute of Exact Sciences,  Computer Science Department
 
-Algorithms and Computer Programming - 1/2019
+Algorithms and Computer Programming - 2019.1
 
 Developed by: Guilherme Silva Souza
 
